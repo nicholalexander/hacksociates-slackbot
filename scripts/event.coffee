@@ -10,7 +10,7 @@ module.exports = (robot) ->
   days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
   
 
-  robot.respond /who is the event lead|event lead/i, (msg) ->
+  robot.respond /(who is the event lead|event lead)/i, (msg) ->
     
     now = new Date()
     
