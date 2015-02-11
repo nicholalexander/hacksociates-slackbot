@@ -14,9 +14,7 @@
 module.exports = (robot) ->
 
   robot.respond /who has kitchen duty/i, (msg) ->
-    msg.reply "Ryan"
+    msg.reply "Definitely Ryan!!"
 
   robot.respond /who has kitchen duty next/i, (msg) ->
     msg.reply "Jaya"
-
-    
