@@ -10,7 +10,6 @@
 # 4/13/2015 Roger
 
 
-
 module.exports = (robot) ->
 
   robot.respond /who has kitchen duty/i, (msg) ->
