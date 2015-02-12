@@ -1,3 +1,20 @@
+# Description
+#   Remind us who is the event lead.
+#
+# Dependencies:
+#   None
+#
+# Configuration:
+#   None
+#
+# Commands:
+#   hubot <who is the event lead> - answers with a hacksociates name
+#
+# Notes:
+#
+# Author:
+#   nicholalexander
+
 # Monday  Josh
 # Tuesday Belinda
 # Wednesday Raj
