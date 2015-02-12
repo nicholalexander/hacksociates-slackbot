@@ -1,11 +1,11 @@
 responses_kj = [
-    "Are you crazy?",
-    "Great idea.",
-    "I'm busy, ask Nichol to ask him."
-    "No thanks."
-    "Hell no."
-    "<system offline - please try your message again later>"
-    "I'm just a robot."
+    "Ummm...",
+    "I'm busy, ask Nichol to ask him.",
+    "No thanks.",
+    "Hell no.",
+    "<system offline - please try your message again later>",
+    "I'm just a robot.",
+    "Well, I won't, but if you do, make sure it's important"
   ]
 
 module.exports = (robot) ->
