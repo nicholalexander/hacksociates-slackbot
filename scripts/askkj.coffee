@@ -5,6 +5,7 @@ responses_kj = [
     "No thanks."
     "Hell no."
     "<system offline - please try your message again later>"
+    "I'm just a robot."
   ]
 
 module.exports = (robot) ->
