@@ -3,6 +3,7 @@
   "ackbar.coffee",
   "encourage.coffee",
   "advice.coffee",
-  "applause.coffee"
+  "applause.coffee",
+  "cheer.coffee"
 
 ]
