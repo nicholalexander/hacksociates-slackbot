@@ -1,5 +1,8 @@
 [
   "xkcd.coffee",
   "ackbar.coffee",
-  "encourage.coffee"
+  "encourage.coffee",
+  "advice.coffee",
+  "applause.coffee"
+
 ]
